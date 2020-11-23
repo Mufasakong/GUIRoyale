@@ -3,8 +3,6 @@ Button buttonTerning6 = new Button(175, 10, 150, 50, "Slå med 6s terning!", thi
 Button buttonTerning10 = new Button(340, 10, 150, 50, "Slå med 10s terning!", this);
 Dice Terning = new Dice(this);
 
-GUIHandler GUI = new GUIHandler();
-
 int sum;
 int terningeKast;
 
@@ -40,8 +38,6 @@ void draw() {
   buttonTerning10.display();
   
   Terning.display();
-  
-  GUI.DRAW();
 }
 
 void mousePressed() {
