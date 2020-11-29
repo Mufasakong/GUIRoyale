@@ -24,12 +24,17 @@ Mandag / 2 moduler
 - Den store dag er kommet hvor jeres bibliotek skal afprøves af de andre
 
 ````
-Jeg vil hermed vise,  
+Her er en lille vejledning, så der kan findes rundt i mapperne.
 
-## DiceExectution (Klientkode)
+## DiceExectution (Klientkoden)
 I mappen [DiceExecution](DiceExecution) vil du kunne se klientkoden i dets fulde form. 
 Du vil kunne se hvordan jeg får brugt GUI-biblioteket. 
 Det er yderst flexibel og nem at gå til.
 Har du erfaring indenfor GUI-biblioteker eller bare programmering generalt,
 burde det ikke være svært at finde hoved og hat i det.
 
+## GUILIB.jar (Jar-fil af bibliotekskode)
+Hvis du er interesseret i min jar-fil og skulle du have lyst til at gøre brug af jar-filen
+i dit eget program, kan du finde den [her](code)
+
+## GUILIB (bibliotekskoden)
