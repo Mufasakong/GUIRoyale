@@ -4,7 +4,7 @@ Jeg har bearbejdet med en terningekast-simulator, hvor man ved tryk på en knap 
 På brugerfladen får man også at vide summen af alle de terninger man har fået kastet. Opgavebeskrivelsen kan du finde her:
 
 ````
-#### Opgaven 
+##### Opgaven 
 Del 1: Knap med udskiftelig action (se bilag)
 Onsdag / 2 moduler
 1.) Implementer ”knap” og ”action” med ”strategy design pattern”, se bilag,
