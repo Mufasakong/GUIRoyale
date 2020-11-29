@@ -42,7 +42,7 @@ kunne finde den under mappen **code** i DiceExectuion mappen.
 I mappen[GUILIB](GUILIB) vil du kunne se kildematerialet til koden i DiceExecution. 
 Dette er biblioteket, som bygger et fundament til jar-filen.
 Bibliotekskoden består af 2 klasser, et interface og en main klasse:
-- [interface Action](GUILIB/Act.pde)(Grundlægger en protokol mellem klasserne) 
-- [class Button](GUILIB/Butt.pde)(Komponenter og egenskaber der hører til knappen)
-- [class Dice](GUILIB/Dice.pde)(Komponener og egenskaber der hører til terningen)
-- [Main klassen](GUILIB/GUILIB.pde)(M A I N)
+- [interface Action](GUILIB/Act.pde) (Grundlægger en protokol mellem klasserne) 
+- [class Button](GUILIB/Butt.pde) (Komponenter og egenskaber der hører til knappen)
+- [class Dice](GUILIB/Dice.pde) (Komponener og egenskaber der hører til terningen)
+- [Main klassen](GUILIB/GUILIB.pde) ( M A I N )
