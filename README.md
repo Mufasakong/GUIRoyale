@@ -1,10 +1,12 @@
 # GUIRoyale
 Hej og velkommen til GUIRoyale!
-Jeg har bearbejdet med en terningekast-simulator, hvor man ved tryk på en knap kan kaste en terning af alle former. 
-På brugerfladen får man også at vide summen af alle de terninger man har fået kastet. Opgavebeskrivelsen kan du finde her:
+Jeg har bearbejdet med en terningekast-simulator, 
+hvor man ved tryk på en knap kan kaste en terning af alle former. 
+På brugerfladen får man også at vide summen af alle de terninger man har fået kastet. 
+Opgavebeskrivelsen kan du finde her:
 
 ````
-##### Opgaven 
+Opgaven 
 Del 1: Knap med udskiftelig action (se bilag)
 Onsdag / 2 moduler
 1.) Implementer ”knap” og ”action” med ”strategy design pattern”, se bilag,
@@ -25,4 +27,9 @@ Mandag / 2 moduler
 Jeg vil hermed vise,  
 
 ## DiceExectution (Klientkode)
-I mappen DiceExecution vil du kunne se klietkoden i dets fulde form. Du vil kunne se hvordan jeg får brugt det GUI-biblioteket. Det er yderst flexibel.
+I mappen DiceExecution vil du kunne se klientkoden i dets fulde form. 
+Du vil kunne se hvordan jeg får brugt GUI-biblioteket. 
+Det er yderst flexibel og nem at gå til.
+Har du erfaring indenfor GUI-biblioteker eller bare programmering generalt,
+burde det ikke være svært at finde hoved og hat i det.
+
