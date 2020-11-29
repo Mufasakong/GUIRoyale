@@ -27,7 +27,7 @@ Mandag / 2 moduler
 Jeg vil hermed vise,  
 
 ## DiceExectution (Klientkode)
-I mappen [DiceExecution](main/DiceExecution.md) vil du kunne se klientkoden i dets fulde form. 
+I mappen [DiceExecution](DiceExecution.md) vil du kunne se klientkoden i dets fulde form. 
 Du vil kunne se hvordan jeg får brugt GUI-biblioteket. 
 Det er yderst flexibel og nem at gå til.
 Har du erfaring indenfor GUI-biblioteker eller bare programmering generalt,
