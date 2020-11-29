@@ -33,7 +33,7 @@ Det er yderst flexibel og nem at gå til.
 Har du erfaring indenfor GUI-biblioteker eller bare programmering generalt,
 burde det ikke være svært at finde hoved og hat i det.
 
-##### GUILIB.jar (Jar-fil af bibliotekskode)
+### GUILIB.jar (Jar-fil af bibliotekskode)
 Hvis du er interesseret i min jar-fil og skulle du have lyst til at gøre brug af jar-filen
 i dit eget program, kan du finde den [her](DiceExecution/code). Hvis linket ikke virker vil du også,
 kunne finde den under mappen **code** i DiceExectuion mappen.
