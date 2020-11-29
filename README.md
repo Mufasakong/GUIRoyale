@@ -52,7 +52,7 @@ Bibliotekskoden består af 2 klasser, et interface og en main klasse:
 - **.click(mouseX, mouseY);** : Når der skal klikkes med musen (*gælder kun for knap*)
 - **.kast(int);** : Skal udføres under void execute. Integeren er lig med, antallet af sider på terningen; *gælder kun for terning*);
 
-***Bemærk! Du kan altid smutte forbi for [DiceExecution](DiceExecution/DiceExecution.pde) for reference***
+***Bemærk! Du kan altid smutte forbi [DiceExecution](DiceExecution/DiceExecution.pde) for reference***
 
 ## ImportedDice (Byttet kode)
 I mappen [ImportedDice](ImportedDice) har jeg importeret jar-filen fra en ven
