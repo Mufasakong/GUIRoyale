@@ -48,6 +48,17 @@ Bibliotekskoden består af 2 klasser, et interface og en main klasse:
 - [Mainklassen](GUILIB/GUILIB.pde) ( M A I N )
 
 ### Disse metoder skal du være opmærksom på når du vil gøre brug af Jar-filen
-- **.display();**  (Når du vil have noget visuelt; *gælder både for knappen og terningen*)
-- **.click(mouseX, mouseY);** (Når der skal klikkes med musen; *gælder kun for knap*);
-- **.kast(int);** (Skal udføres under void execute. Integeren er lig med, antallet af sider på terningen; *gælder kun for terning*);
+- **.display();** : Når du vil have noget visuelt (*gælder både for knappen og terningen*)
+- **.click(mouseX, mouseY);** : Når der skal klikkes med musen (*gælder kun for knap*)
+- **.kast(int);** : Skal udføres under void execute. Integeren er lig med, antallet af sider på terningen; *gælder kun for terning*);
+
+***Bemærk! Du kan altid smutte forbi for [DiceExecution](DiceExecution/DiceExecution.pde) for reference***
+
+## ImportedDice (Byttet kode)
+I mappen [ImportedDice](ImportedDice) har jeg importeret jar-filen fra en ven
+som havde til samme opgave, at lave en terningekast-simulator. Jeg har blandt andet lavet nogle små tweaks, såsom at tilføje en snydekommando.
+Jeg vil ikke afsløre hvad den gør, det er et Easter Egg som du selv må udforske og se for dig selv.
+
+Det var alt for denne gang, Arrivederci!
+
+
