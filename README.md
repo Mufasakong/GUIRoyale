@@ -45,4 +45,9 @@ Bibliotekskoden består af 2 klasser, et interface og en main klasse:
 - [interface Action](GUILIB/Act.pde) (Grundlægger en protokol mellem klasserne) 
 - [class Button](GUILIB/Butt.pde) (Komponenter og egenskaber der hører til knappen)
 - [class Dice](GUILIB/Dice.pde) (Komponener og egenskaber der hører til terningen)
-- [Main klassen](GUILIB/GUILIB.pde) ( M A I N )
+- [Mainklassen](GUILIB/GUILIB.pde) ( M A I N )
+
+### Disse metoder skal du være opmærksom på når du vil gøre brug af Jar-filen
+- **.display();**  (Når du vil have noget visuelt; *gælder både for knappen og terningen*)
+- **.click(mouseX, mouseY);** (Når der skal klikkes med musen; *gælder kun for knap*);
+- **.kast(int);** (Skal udføres under void execute. Integeren er lig med, antallet af sider på terningen; *gælder kun for terning*);
