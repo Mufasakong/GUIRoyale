@@ -41,8 +41,8 @@ kunne finde den under mappen **code** i DiceExectuion mappen.
 ## GUILIB (bibliotekskoden)
 I mappen[GUILIB](GUILIB) vil du kunne se kildematerialet til koden i DiceExecution. 
 Dette er biblioteket, som bygger et fundament til jar-filen.
-Bibliotekskoden består af 3 klasser og en main klasse:
-- [class Action](GUILIB/Act.pde)
-- [class Button](GUILIB/Butt.pde)
-- [class Dice](GUILIB/Dice.pde)
-- [Main klassen](GUILIB/GUILIB.pde)
+Bibliotekskoden består af 2 klasser, et interface og en main klasse:
+- [interface Action](GUILIB/Act.pde) 
+- [class Button](GUILIB/Butt.pde) Komponenter og egenskaber der hører til knappen.
+- [class Dice](GUILIB/Dice.pde) Komponener og egenskaber der hører til terningen.
+- [Main klassen](GUILIB/GUILIB.pde) M A I N
