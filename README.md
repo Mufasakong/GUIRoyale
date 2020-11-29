@@ -39,7 +39,7 @@ i dit eget program, kan du finde den [her](DiceExecution/code). Hvis linket ikke
 kunne finde den under mappen **code** i DiceExectuion mappen.
 
 ## GUILIB (bibliotekskoden)
-I mappen[GUILIB](GUILIB) vil du kunne se kildematerialet til koden i DiceExecution. 
+I mappen [GUILIB](GUILIB) vil du kunne se kildematerialet til koden i DiceExecution. 
 Dette er biblioteket, som bygger et fundament til jar-filen.
 Bibliotekskoden består af 2 klasser, et interface og en main klasse:
 - [interface Action](GUILIB/Act.pde) (Grundlægger en protokol mellem klasserne) 
